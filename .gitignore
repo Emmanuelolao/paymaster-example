@@ -81,3 +81,4 @@ typings/
 .cache
 
 # Next.js build output
+.next

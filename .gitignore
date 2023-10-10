@@ -106,3 +106,4 @@ dist
 .fusebox/
 
 # DynamoDB Local files
+.dynamodb/

@@ -1,2 +1,3 @@
 {
   "name": "paymaster-examples",
+  "main": "index.js",

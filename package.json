@@ -5,3 +5,4 @@
   "repository": "git@github.com:matter-labs/zksync-hardhat-template.git",
   "author": "Antonio <aug@matterlabs.dev>",
   "license": "MIT",
+  "private": true,

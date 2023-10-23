@@ -6,3 +6,4 @@
   "author": "Antonio <aug@matterlabs.dev>",
   "license": "MIT",
   "private": true,
+  "workspaces": ["contracts", "frontend"],

@@ -13,3 +13,4 @@
   "scripts": {
     "test:contracts": "yarn workspace contracts test",
     "deploy:contracts": "yarn workspace contracts deploy", 
+    "compile:contracts": "yarn workspace contracts compile",

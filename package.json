@@ -15,3 +15,4 @@
     "deploy:contracts": "yarn workspace contracts deploy", 
     "compile:contracts": "yarn workspace contracts compile",
     "deploy:greeter": "yarn workspace contracts greeter",
+    "deploy:gasless": "yarn workspace contracts gasless",

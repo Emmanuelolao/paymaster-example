@@ -17,3 +17,4 @@
     "deploy:greeter": "yarn workspace contracts greeter",
     "deploy:gasless": "yarn workspace contracts gasless",
     "deploy:allowList": "yarn workspace contracts allowList",
+    "deploy:nftGated": "yarn workspace contracts nftGated",

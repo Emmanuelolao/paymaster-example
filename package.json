@@ -18,3 +18,4 @@
     "deploy:gasless": "yarn workspace contracts gasless",
     "deploy:allowList": "yarn workspace contracts allowList",
     "deploy:nftGated": "yarn workspace contracts nftGated",
+    "deploy:fixedToken": "yarn workspace contracts fixedToken",

@@ -19,3 +19,4 @@
     "deploy:allowList": "yarn workspace contracts allowList",
     "deploy:nftGated": "yarn workspace contracts nftGated",
     "deploy:fixedToken": "yarn workspace contracts fixedToken",
+    "deploy:nft": "yarn workspace contracts nft",

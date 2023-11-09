@@ -21,3 +21,4 @@
     "deploy:fixedToken": "yarn workspace contracts fixedToken",
     "deploy:nft": "yarn workspace contracts nft",
     "deploy:token": "yarn workspace contracts token",
+    "serve:ui": "yarn workspace frontend dev",

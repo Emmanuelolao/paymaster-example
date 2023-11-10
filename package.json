@@ -22,3 +22,4 @@
     "deploy:nft": "yarn workspace contracts nft",
     "deploy:token": "yarn workspace contracts token",
     "serve:ui": "yarn workspace frontend dev",
+    "start:ui": "yarn workspace frontend start",

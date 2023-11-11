@@ -23,3 +23,4 @@
     "deploy:token": "yarn workspace contracts token",
     "serve:ui": "yarn workspace frontend dev",
     "start:ui": "yarn workspace frontend start",
+    "build:ui": "yarn workspace frontend build",

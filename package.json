@@ -24,3 +24,4 @@
     "serve:ui": "yarn workspace frontend dev",
     "start:ui": "yarn workspace frontend start",
     "build:ui": "yarn workspace frontend build",
+    "format": "prettier --write \"{frontend,contracts}/**/*.{ts,js,jsx,tsx}\""

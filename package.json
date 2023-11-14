@@ -26,3 +26,4 @@
     "build:ui": "yarn workspace frontend build",
     "format": "prettier --write \"{frontend,contracts}/**/*.{ts,js,jsx,tsx}\""
   },
+  "dependencies": {}

@@ -27,3 +27,4 @@
     "format": "prettier --write \"{frontend,contracts}/**/*.{ts,js,jsx,tsx}\""
   },
   "dependencies": {}
+}

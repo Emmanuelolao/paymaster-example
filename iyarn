@@ -4,3 +4,4 @@
 
 "@babel/runtime@^7.20.7":
   version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.22.5.tgz#8564dd588182ce0047d55d7a75e93921107b57ec"

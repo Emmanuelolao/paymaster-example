@@ -11,3 +11,4 @@
 
 "@balena/dockerignore@^1.0.2":
   version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@balena/dockerignore/-/dockerignore-1.0.2.tgz#9ffe4726915251e8eb69f44ef3547e0da2c03e0d"
